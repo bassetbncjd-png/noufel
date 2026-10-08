@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "BXhDu4qUNZM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\Documents\\تعلم c#\\for learn\\DataStructur\\DataStructur.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\uno.diagnostics.eventing\\2.0.1\\uno.diagnostics.eventing.2.0.1.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\uno.fonts.fluent\\2.6.1\\uno.fonts.fluent.2.6.1.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\uno.foundation.logging\\5.6.99\\uno.foundation.logging.5.6.99.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\uno.ui\\5.6.99\\uno.ui.5.6.99.nupkg.sha512"
+  ],
+  "logs": []
+}
